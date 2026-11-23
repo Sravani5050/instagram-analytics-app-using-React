@@ -1,0 +1,11 @@
+{
+  "accounts": {
+    "Your_Account_ID_Name": {
+      "access_token": "Your_Access_Token",
+      "account_id": "Your_Account_Id",
+      "app_id": "Your_App_Id",
+      "app_secret": "Your_APP_Secret"
+    }
+  },
+  "active": "Your_Account_ID_Name"
+}
